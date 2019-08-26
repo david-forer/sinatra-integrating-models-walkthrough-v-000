@@ -41,7 +41,7 @@ class TextAnalyzer
     biggest
   end
 end
-#
+
 
 my_text = TextAnalyzer.new("The rain in Spain stays mainly on the plain.")
 my_text.count_of_words #=> 9
